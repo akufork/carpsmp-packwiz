@@ -1,4 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+
+[[files]]
 file = "unsup.ini"
