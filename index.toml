@@ -16,6 +16,10 @@ file = "mods/libraries/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/async-locator-refined.pw.toml"
 metafile = true
 
@@ -85,6 +89,42 @@ metafile = true
 
 [[files]]
 file = "mods/performance/sodium/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-end-island.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
