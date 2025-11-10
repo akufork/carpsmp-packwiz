@@ -4,4 +4,88 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "mods/libraries/configurable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/async-locator-refined.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/c2me-neoforge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/flerovium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/krypton-foxified.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/ksyxis.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/neruina.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/particle-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium/sodium-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium/sodium-options-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium/sodium-options-mod-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium/sodium.pw.toml"
+metafile = true
+
+[[files]]
 file = "unsup.ini"
