@@ -4,7 +4,23 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "mods/libraries/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/carrasconlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/configurable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/forgified-fabric-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -12,7 +28,15 @@ file = "mods/libraries/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/kiwi.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/puzzles-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -89,6 +113,98 @@ metafile = true
 
 [[files]]
 file = "mods/performance/sodium/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/crawl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/skippy-pearls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/scholar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/screenshot-to-clipboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/better-ping-display.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/jade-addons-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/now-playing.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/overflowing-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/structure-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/ambient-environment.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/bettergrassify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/highlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/seamless.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/sodium-dynamic-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/visual/visuality-forge.pw.toml"
 metafile = true
 
 [[files]]
