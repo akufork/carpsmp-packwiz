@@ -7,7 +7,15 @@ file = "LICENSE"
 file = "config/mimi-common.toml"
 
 [[files]]
+file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
 [[files]]
