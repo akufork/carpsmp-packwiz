@@ -7,6 +7,10 @@ file = "LICENSE"
 file = "config/mimi-common.toml"
 
 [[files]]
+file = "mods/content/applied-energistics/ae2.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
@@ -116,6 +120,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/guideme.pw.toml"
 metafile = true
 
 [[files]]
