@@ -387,6 +387,10 @@ file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/emi/emi.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/scholar.pw.toml"
 metafile = true
 
