@@ -4,6 +4,46 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "mods/content/computer-craft/advancedperipherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/ccsecureboot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/classicperipherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/computer-craft/toms-peripherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/exposure/exposure-catalog.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/exposure/exposure-cmos.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/exposure/exposure-expanded.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/exposure/exposure-polaroid.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/exposure/exposure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
