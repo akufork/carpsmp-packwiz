@@ -44,11 +44,23 @@ file = "mods/content/exposure/exposure.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/leashedplayer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/mimi.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/moyai.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/mystical-oak-tree.pw.toml"
 metafile = true
 
 [[files]]
