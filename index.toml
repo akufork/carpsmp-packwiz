@@ -55,6 +55,14 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-bitterballen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-pattern-schematics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-power-loader.pw.toml"
 metafile = true
 
@@ -67,7 +75,15 @@ file = "mods/content/create/create-stock-bridge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-trading-floor.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/hypertube.pw.toml"
 metafile = true
 
 [[files]]
