@@ -183,6 +183,10 @@ file = "mods/libraries/carrasconlib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/cerbons-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/cloth-config.pw.toml"
 metafile = true
 
@@ -347,11 +351,19 @@ file = "mods/tweaks/gameplay/cat_jam.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/cerbons-better-beacons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/companion.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/crawl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/grass-seeds.pw.toml"
 metafile = true
 
 [[files]]
