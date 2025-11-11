@@ -59,6 +59,10 @@ file = "mods/content/exposure/exposure.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/mavm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/leashedplayer.pw.toml"
 metafile = true
 
@@ -140,6 +144,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mavapi.pw.toml"
 metafile = true
 
 [[files]]
