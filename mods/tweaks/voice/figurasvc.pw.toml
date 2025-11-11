@@ -1,0 +1,13 @@
+name = "FiguraSVC"
+filename = "figurasvc-2.0.1+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zDF68701/versions/PC7k5Uqx/figurasvc-2.0.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "7f5241eac4beef2a371ddb509ccc53c2bbce194575d7b2406ddf12f950731dcba64919ed15db2416ea48415d5f59a94c5f80da8e21990721c0b86f44223cf3bd"
+
+#[update]
+#[update.modrinth]
+#mod-id = "zDF68701"
+#version = "PC7k5Uqx"
