@@ -547,6 +547,10 @@ file = "mods/tweaks/visual/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/figura.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/highlight.pw.toml"
 metafile = true
 
@@ -572,6 +576,14 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/voice/figurasvc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/voice/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
