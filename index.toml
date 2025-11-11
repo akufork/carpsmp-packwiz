@@ -8,11 +8,19 @@ file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/balm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/carrasconlib.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/libraries/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/collective.pw.toml"
 metafile = true
 
 [[files]]
@@ -116,7 +124,35 @@ file = "mods/performance/sodium/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/armor-statues.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/cat_jam.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/crawl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/ironfish.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/no-telemetry.pw.toml"
 metafile = true
 
 [[files]]
@@ -124,7 +160,31 @@ file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/shulker-drops-two.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/skippy-pearls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/snow-under-trees.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/softer-hay-bales.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/treechop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
 metafile = true
 
 [[files]]
