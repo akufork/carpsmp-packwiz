@@ -44,6 +44,22 @@ file = "mods/content/exposure/exposure.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/mimi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/mmmmmmmmmmmm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/sleep-tight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/straw-statues.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/supplementaries/amendments.pw.toml"
 metafile = true
 
