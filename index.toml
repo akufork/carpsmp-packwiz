@@ -23,6 +23,10 @@ file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminal
 metafile = true
 
 [[files]]
+file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
@@ -364,6 +368,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/passable-foliage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/polymorph.pw.toml"
 metafile = true
 
 [[files]]
