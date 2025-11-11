@@ -7,6 +7,10 @@ file = "LICENSE"
 file = "config/mimi-common.toml"
 
 [[files]]
+file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
@@ -56,6 +60,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/exposure/exposure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/creeper-overhaul.pw.toml"
 metafile = true
 
 [[files]]
@@ -163,7 +171,19 @@ file = "mods/libraries/moonlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/paxi.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/resourceful-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
