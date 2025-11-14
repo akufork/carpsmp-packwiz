@@ -4,6 +4,9 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "config/figura.json"
+
+[[files]]
 file = "config/mimi-common.toml"
 
 [[files]]
