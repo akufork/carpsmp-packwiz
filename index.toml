@@ -4,6 +4,9 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "config/emojiful-client.toml"
+
+[[files]]
 file = "config/figura.json"
 
 [[files]]
@@ -475,6 +478,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/hud/emojiful.pw.toml"
 metafile = true
 
 [[files]]
