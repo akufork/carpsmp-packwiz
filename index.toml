@@ -429,6 +429,18 @@ file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gui/cubes-without-borders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/dark-window-bar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/distinguished-potions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gui/emi/distraction-free-recipes.pw.toml"
 metafile = true
 
