@@ -33,6 +33,10 @@ file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/shutters.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
