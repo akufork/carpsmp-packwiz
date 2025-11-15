@@ -136,11 +136,31 @@ file = "mods/content/mobs/creeper-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/critters-and-companions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/friends-and-foes-flowery-mooblooms-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/friends-and-foes-forge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/mavm.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/mobs/ribbits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/snuffles.pw.toml"
 metafile = true
 
 [[files]]
