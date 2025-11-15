@@ -649,6 +649,10 @@ file = "mods/utilities/spark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/nether/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/yungs/yungs-better-desert-temples.pw.toml"
 metafile = true
 
