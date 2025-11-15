@@ -17,6 +17,9 @@ file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/tectonic.json"
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
@@ -210,6 +213,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/connector.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/cristel-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -649,7 +656,27 @@ file = "mods/utilities/spark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldgen/end/end-villager-outpost.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/end/nullscape.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/nether/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/fsmp-worldgen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/tectonic.pw.toml"
 metafile = true
 
 [[files]]
