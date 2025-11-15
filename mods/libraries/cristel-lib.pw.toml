@@ -7,7 +7,7 @@ url = "https://cdn.modrinth.com/data/cl223EMc/versions/oLp2OCg3/cristellib-neofo
 hash-format = "sha512"
 hash = "8311c3723bef5a765347d9500d0a9f5968515770a6effb3cdbfdf6e2ddd9912f9a83bbbd7fe62baf2319dd46fd5057d7cb6044abbd2e9b91e9075291ffced747"
 
-[update]
-[update.modrinth]
-mod-id = "cl223EMc"
-version = "oLp2OCg3"
+# [update]
+# [update.modrinth]
+# mod-id = "cl223EMc"
+# version = "oLp2OCg3"
