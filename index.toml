@@ -241,6 +241,10 @@ file = "mods/libraries/moonlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/mru.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/paxi.pw.toml"
 metafile = true
 
@@ -346,6 +350,22 @@ metafile = true
 
 [[files]]
 file = "mods/performance/sodium/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/cool-rain-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/sound.pw.toml"
 metafile = true
 
 [[files]]
@@ -585,6 +605,10 @@ file = "mods/tweaks/visual/figura.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/figurasvc.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/highlight.pw.toml"
 metafile = true
 
@@ -610,14 +634,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/visual/visuality-forge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/voice/figurasvc.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/voice/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
