@@ -641,6 +641,14 @@ file = "mods/tweaks/visual/visuality-forge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/chunky.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/spark.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldgen/yungs/yungs-better-desert-temples.pw.toml"
 metafile = true
 
