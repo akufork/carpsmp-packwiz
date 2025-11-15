@@ -164,6 +164,10 @@ file = "mods/content/mobs/snuffles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/other/joy-of-painting.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/other/leashedplayer.pw.toml"
 metafile = true
 
