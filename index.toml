@@ -240,186 +240,6 @@ file = "mods/content/farmers-delight/some-assembly-required.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/farmers-delight/testing/aquaculture-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/arbitrary-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/barbeques-delight-forge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/brewin-and-chewin.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/cocktails-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/compat-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/corn-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/countries-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/crabbers-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/crate-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/cuisine-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/cultural-delights.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/cutting-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/display-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/dumplings-delight-rewrapped.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/dungeons_delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/easters-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/egg-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/enders-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/ends-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/expanded-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/fastfood-delight-unofficial.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/frights-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/fruits-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/hearth-and-harvest.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/lodestonelib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/miners-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/mmlib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/more-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/not-enough-pots.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/oaks-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/oceans-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/pineapple-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/pizza-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/pizzadelight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/potted-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/recipe-modification.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/runiclib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/rustic-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/seed-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/trailtales-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/ubes-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/valheim-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/vegan-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight/testing/veggies-delight.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/mobs/creeper-overhaul.pw.toml"
 metafile = true
 
@@ -493,6 +313,222 @@ metafile = true
 
 [[files]]
 file = "mods/content/supplementaries/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/aquaculture-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/arbitrary-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/barbeques-delight-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/brewin-and-chewin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/cocktails-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/compat-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/corn-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/countries-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/crabbers-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/crate-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/cuisine-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/cultural-delights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/cutting-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/display-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/dumplings-delight-rewrapped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/dungeons_delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/easters-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/egg-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/enders-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/expanded-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/fastfood-delight-unofficial.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/frights-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/fruits-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/hearth-and-harvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/libraries/lodestonelib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/libraries/mmlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/libraries/not-enough-pots.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/libraries/recipe-modification.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/libraries/runiclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/miners-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/more-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/oaks-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/oceans-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/pineapple-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/pizza-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/pizzadelight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/potted-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/rustic-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/seed-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/trailtales-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/ubes-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/valheim-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/vegan-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/farmers-delight/veggies-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/minecolonies/byzantine-styles-pack-for-minecolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/minecolonies/libraries/blockui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/minecolonies/libraries/domum-ornamentum.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/minecolonies/libraries/multi-piston.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/minecolonies/libraries/structurize.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/minecolonies/libraries/towntalk.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/minecolonies/minecolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/minecolonies/smallcolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/testing/minecolonies/stylecolonies.pw.toml"
 metafile = true
 
 [[files]]
