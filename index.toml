@@ -644,6 +644,22 @@ file = "mods/tweaks/hud/structure-credits.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/map/journeymap/journeylocator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/journeymap/journeymap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/xaeros/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/xaeros/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/menu/auth-me.pw.toml"
 metafile = true
 
@@ -821,3 +837,6 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
+
+[[files]]
+file = "unsup.toml"
