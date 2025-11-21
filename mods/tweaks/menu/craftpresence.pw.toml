@@ -1,0 +1,8 @@
+name = "CraftPresence"
+filename = "CraftPresence-2.6.2+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/jNlCD3PY/CraftPresence-2.6.2%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "7e08836718dac492ee870227c21b57ac6b2bc2f7b0a0c73143f0b15c8fbc547ebdb1722e0a4476fed1d54ebb7df9adf723ff43cc8b3fc4e6c9878954ec5dde82"

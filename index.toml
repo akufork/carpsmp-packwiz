@@ -4,7 +4,37 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "config/craftpresence.json"
+
+[[files]]
+file = "config/desiredservers/desiredservers.json"
+
+[[files]]
 file = "config/emojiful-client.toml"
+
+[[files]]
+file = "config/fancymenu/assets/icon.icns"
+
+[[files]]
+file = "config/fancymenu/assets/icon16x16.png"
+
+[[files]]
+file = "config/fancymenu/assets/icon32x32.png"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+
+[[files]]
+file = "config/fancymenu/options.txt"
 
 [[files]]
 file = "config/figura.json"
@@ -320,6 +350,10 @@ file = "mods/libraries/kiwi.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/konkrete.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/kotlin-for-forge.pw.toml"
 metafile = true
 
@@ -329,6 +363,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/mavapi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/melody.pw.toml"
 metafile = true
 
 [[files]]
@@ -361,6 +399,10 @@ metafile = true
 
 [[files]]
 file = "mods/libraries/txnilib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/unilib.pw.toml"
 metafile = true
 
 [[files]]
@@ -676,6 +718,10 @@ file = "mods/tweaks/menu/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/menu/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/menu/default-options.pw.toml"
 metafile = true
 
@@ -684,7 +730,15 @@ file = "mods/tweaks/menu/desired-servers.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/menu/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/menu/exportstats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/menu/fancymenu.pw.toml"
 metafile = true
 
 [[files]]
