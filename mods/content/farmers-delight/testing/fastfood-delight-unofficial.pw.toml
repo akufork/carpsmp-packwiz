@@ -1,0 +1,13 @@
+name = "FastFood Delight Unofficial"
+filename = "FastFoodDelightUnofficial-neoforge-1.21.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8QeUzWCq/versions/YXahgkWI/FastFoodDelightUnofficial-neoforge-1.21.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "57ab84b8b530a8692485c951718d8e89319b81af4f12bbfb190fe8410058c9d401b1299e868c5e7dc48a1a50b174e2b570815f824aadb17fde722661d8479069"
+
+[update]
+[update.modrinth]
+mod-id = "8QeUzWCq"
+version = "YXahgkWI"

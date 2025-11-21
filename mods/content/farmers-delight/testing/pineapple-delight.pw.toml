@@ -1,0 +1,13 @@
+name = "Pineapple Delight"
+filename = "pineapple_delight-1.1.0-1.21.1-neoforge-fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8wXnuOvg/versions/kYYfPS7x/pineapple_delight-1.1.0-1.21.1-neoforge-fix.jar"
+hash-format = "sha512"
+hash = "bbd76610e00b6b6ff38fe38ffc91e08855a2c7d85e87dd8fefe8c4477ff7d122673aa742f71945c95a801c296ca08bcc631a21e49b2914eb2253a9313296cd45"
+
+[update]
+[update.modrinth]
+mod-id = "8wXnuOvg"
+version = "kYYfPS7x"

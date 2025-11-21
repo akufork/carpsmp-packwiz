@@ -1,0 +1,13 @@
+name = "Countries Delight"
+filename = "countriesdelight-1.0.5-sweden.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mJ319DMC/versions/f3vbfyQO/countriesdelight-1.0.5-sweden.jar"
+hash-format = "sha512"
+hash = "89fbb47e17e85076323a6fa58f887db487a4c1b4b7c1dcf6ca470cfcb2127cc89be121172c69cfceebc7dbcb3c5e271e37e6280b84bcb0feb07deedb96219203"
+
+[update]
+[update.modrinth]
+mod-id = "mJ319DMC"
+version = "f3vbfyQO"

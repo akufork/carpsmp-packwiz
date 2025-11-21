@@ -1,0 +1,13 @@
+name = "Cocktails Delight"
+filename = "Cocktails-Delight-1.21.1-NeoForge-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hzcliQdE/versions/p47IcsML/Cocktails-Delight-1.21.1-NeoForge-1.0.4.jar"
+hash-format = "sha512"
+hash = "6181b569faf9d0702e18c74097cfa165f452c0f6fcc6d37ea78b3d06b78544b8f250d3330c011cea1fa80ba7e9dfd72127068423a6323d26100db8cf6112924e"
+
+[update]
+[update.modrinth]
+mod-id = "hzcliQdE"
+version = "p47IcsML"

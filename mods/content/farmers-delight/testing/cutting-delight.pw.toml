@@ -1,0 +1,13 @@
+name = "Cutting Delight"
+filename = "cuttingdelight-1.0.0-beta.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5oqQBDcS/versions/bOJw7NH9/cuttingdelight-1.0.0-beta.2.jar"
+hash-format = "sha512"
+hash = "7fbbaeb069cac2b6a5b94668b8668d80d293d86d6de7ba929ef156acd7e7c00d6ef54655f35e12f7695cdd2f608cf1481621602ca4b87ecab5cac9a082ea554f"
+
+[update]
+[update.modrinth]
+mod-id = "5oqQBDcS"
+version = "bOJw7NH9"

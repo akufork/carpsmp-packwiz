@@ -1,0 +1,13 @@
+name = "Ube's Delight"
+filename = "ubesdelight-neoforge-1.21.1-0.4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PYjpoAys/versions/JOSa8bBE/ubesdelight-neoforge-1.21.1-0.4.6.jar"
+hash-format = "sha512"
+hash = "17db4d1d9cb15ccb421370b82dfcc89a76dd6f0d4667866abaf38ebdbcf0fb34ab8f00d678d499ac8ae05a2bb0a68e3c7e8742b8aa1884ea2cbcb3eaeeff7d27"
+
+[update]
+[update.modrinth]
+mod-id = "PYjpoAys"
+version = "JOSa8bBE"
