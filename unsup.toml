@@ -32,6 +32,10 @@ choices = ["iris_on", "iris_off"]
 flavors = "iris_on"
 [metafile.colorwheel-patcher]
 flavors = "iris_on"
+[metafile.complementary-reimagined]
+flavors = "iris_on"
+[metafile.complementary-unbound]
+flavors = "iris_on"
 [metafile.iris]
 flavors = "iris_on"
 
