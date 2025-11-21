@@ -36,6 +36,10 @@ file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/nightlights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/build-deco/shutters.pw.toml"
 metafile = true
 
