@@ -260,6 +260,10 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/almanac.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
@@ -488,7 +492,15 @@ file = "mods/tweaks/gameplay/ironfish.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/lmd.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/monsters-in-the-closet.pw.toml"
 metafile = true
 
 [[files]]
@@ -537,6 +549,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
