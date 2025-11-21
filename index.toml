@@ -696,6 +696,18 @@ file = "mods/testing/content/farmers-delight/veggies-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/immersive-aircraft/create-man-of-many-planes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/immersive-aircraft/immersive-aircraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/immersive-aircraft/man-of-many-planes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/content/minecolonies/byzantine-styles-pack-for-minecolonies.pw.toml"
 metafile = true
 
@@ -729,6 +741,18 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/minecolonies/stylecolonies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/other/fire-extinguisher.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/tweaks/cerbons-better-beacons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/tweaks/plane-advancements.pw.toml"
 metafile = true
 
 [[files]]
