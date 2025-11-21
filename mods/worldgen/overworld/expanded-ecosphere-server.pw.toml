@@ -1,0 +1,9 @@
+name = "William Wythers' Expanded Ecosphere"
+filename = "expanded_ecosphere-neoforge-3.4.4-patched.jar"
+side = "server"
+
+# Patched version for some server-side fixes and compatibility
+[download]
+url = "https://pwcdn.carp.gg/expanded_ecosphere-neoforge-3.4.4-patched.jar"
+hash-format = "sha256"
+hash = "ce99a36569833dcefe575c040f1165e4c00a8ddb00cbb683cde657806b1dbd9c"

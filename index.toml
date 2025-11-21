@@ -4,11 +4,20 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "config/emojiful-client.toml"
+
+[[files]]
+file = "config/figura.json"
+
+[[files]]
 file = "config/mimi-common.toml"
 
 [[files]]
 file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
+
+[[files]]
+file = "config/tectonic.json"
 
 [[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
@@ -24,6 +33,18 @@ metafile = true
 
 [[files]]
 file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/schematic-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/nightlights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/shutters.pw.toml"
 metafile = true
 
 [[files]]
@@ -67,7 +88,43 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-aquatic-ambitions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-bitterballen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-central-kitchen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-deepfried.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-dragons-plus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-enchantable-machinery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-enchantment-industry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-integrated-farming.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-meta-logistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-more-pipe-bombs-in-packages.pw.toml"
 metafile = true
 
 [[files]]
@@ -76,6 +133,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-power-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-railways-navigator.pw.toml"
 metafile = true
 
 [[files]]
@@ -92,6 +153,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/gears-n-kinetics.pw.toml"
 metafile = true
 
 [[files]]
@@ -123,11 +188,35 @@ file = "mods/content/mobs/creeper-overhaul.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/mobs/critters-and-companions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/friends-and-foes-flowery-mooblooms-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/friends-and-foes-forge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/mobs/mavm.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/content/mobs/ribbits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/snuffles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/other/joy-of-painting.pw.toml"
 metafile = true
 
 [[files]]
@@ -171,6 +260,10 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/almanac.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/architectury-api.pw.toml"
 metafile = true
 
@@ -203,6 +296,10 @@ file = "mods/libraries/connector.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/forgified-fabric-api.pw.toml"
 metafile = true
 
@@ -227,11 +324,19 @@ file = "mods/libraries/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/mavapi.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/libraries/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/mru.pw.toml"
 metafile = true
 
 [[files]]
@@ -343,6 +448,22 @@ file = "mods/performance/sodium/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/audio/cool-rain-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/sound.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/armor-statues.pw.toml"
 metafile = true
 
@@ -371,7 +492,15 @@ file = "mods/tweaks/gameplay/ironfish.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/lmd.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/monsters-in-the-closet.pw.toml"
 metafile = true
 
 [[files]]
@@ -420,6 +549,22 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/vivecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/cubes-without-borders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/dark-window-bar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gui/distinguished-potions.pw.toml"
 metafile = true
 
 [[files]]
@@ -475,6 +620,10 @@ file = "mods/tweaks/hud/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/hud/emojiful.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/hud/jade-addons-forge.pw.toml"
 metafile = true
 
@@ -492,6 +641,22 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/structure-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/journeymap/journeylocator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/journeymap/journeymap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/xaeros/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/xaeros/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
@@ -563,6 +728,10 @@ file = "mods/tweaks/visual/figura.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/visual/figurasvc.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/visual/highlight.pw.toml"
 metafile = true
 
@@ -591,11 +760,43 @@ file = "mods/tweaks/visual/visuality-forge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/voice/figurasvc.pw.toml"
+file = "mods/utilities/chunky.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/voice/simple-voice-chat.pw.toml"
+file = "mods/utilities/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/utilities/worldedit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/end/end-villager-outpost.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/end/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/nether/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/expanded-ecosphere-server.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/expanded-ecosphere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/fsmp-worldgen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldgen/overworld/tectonic.pw.toml"
 metafile = true
 
 [[files]]
@@ -636,3 +837,6 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
+
+[[files]]
+file = "unsup.toml"

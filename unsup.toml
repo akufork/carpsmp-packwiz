@@ -1,0 +1,60 @@
+[flavor_groups.map]
+name = "Map mod"
+side = "client"
+choices = [
+  { id = "map_xaero", name = "Xaero" },
+  { id = "map_journey", name = "Journey" },
+]
+
+[metafile.xaeros-minimap]
+flavors = "map_xaero"
+[metafile.xaeros-world-map]
+flavors = "map_xaero"
+[metafile.journeylocator]
+flavors = "map_journey"
+[metafile.journeymap]
+flavors = "map_journey"
+
+[flavor_groups.dh]
+name = "Distant Horizons"
+side = "client"
+choices = ["dh_on", "dh_off"]
+
+[metafile.distanthorizons]
+flavors = "dh_on"
+
+[flavor_groups.iris]
+name = "Iris"
+side = "client"
+choices = ["iris_on", "iris_off"]
+
+[metafile.colorwheel]
+flavors = "iris_on"
+[metafile.colorwheel-patcher]
+flavors = "iris_on"
+[metafile.iris]
+flavors = "iris_on"
+
+[flavor_groups.particular]
+name = "Particular"
+side = "client"
+choices = ["particular_on", "particular_off"]
+
+[metafile.particular-reforged]
+flavors = "particular_on"
+
+[flavor_groups.visuality]
+name = "Visuality"
+side = "client"
+choices = ["visuality_on", "visuality_off"]
+
+[metafile.visuality-forge]
+flavors = "visuality_on"
+
+[flavor_groups.dynamic]
+name = "Dynamic Lights"
+side = "client"
+choices = ["dynamic_on", "dynamic_off"]
+
+[metafile.sodium-dynamic-lights]
+flavors = "dynamic_on"

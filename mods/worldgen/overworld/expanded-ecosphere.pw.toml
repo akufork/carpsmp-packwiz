@@ -1,0 +1,13 @@
+name = "William Wythers' Expanded Ecosphere"
+filename = "expanded_ecosphere-neoforge-3.4.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O1XGs7ps/versions/NhLJaUiA/expanded_ecosphere-neoforge-3.4.4.jar"
+hash-format = "sha512"
+hash = "b13db63c632b39a4a1aa0c9c90c8510a25041147c0dca6bc986122d7cd2a6b294695509debf908ec4006ca10f4533bc93c168f995b9c2bda0f3966eb59b33fd2"
+
+[update]
+[update.modrinth]
+mod-id = "O1XGs7ps"
+version = "NhLJaUiA"
