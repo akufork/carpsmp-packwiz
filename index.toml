@@ -80,7 +80,43 @@ file = "mods/content/create/copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-aquatic-ambitions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-bitterballen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-central-kitchen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-deepfried.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-dragons-plus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-enchantable-machinery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-enchantment-industry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-integrated-farming.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-meta-logistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-more-pipe-bombs-in-packages.pw.toml"
 metafile = true
 
 [[files]]
@@ -89,6 +125,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-power-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-railways-navigator.pw.toml"
 metafile = true
 
 [[files]]
@@ -105,6 +145,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/gears-n-kinetics.pw.toml"
 metafile = true
 
 [[files]]
